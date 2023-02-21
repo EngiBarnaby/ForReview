@@ -1,0 +1,18 @@
+# Python3.8
+
+django==3.2
+djangorestframework==3.14
+djangorestframework-simplejwt==5.2
+django-celery-beat==2.4.0
+django-grappelli==3.0.4
+django-filter==22.1
+django-cors-headers==3.13
+
+channels==4.0.0
+channels_redis==4.0.0
+
+Pillow==9.4
+pandas==1.5
+openpyxl
+psycopg2-binary
+requests==2.9
